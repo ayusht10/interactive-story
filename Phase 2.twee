@@ -1,0 +1,237 @@
+:: StoryTitle
+Phase 2
+
+
+:: StoryData
+{
+  "ifid": "E3FC30AB-7600-4221-ACFE-FD4BB430EE7B",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 0.3
+}
+
+
+:: \ Enter the cafe {"position":"1450,425","size":"100,100"}
+You enter the cafe and glance around. Three mentors are already seated and ready to chat:
+
+<img src="https://i.imgur.com/qrEDTmZ.png" width="800">
+
+* A Data Analyst reviewing colorful charts
+* An Environmental Engineer sketching ideas for a greener city
+* A Product Designer refining an app interface
+
+Who do you want to talk to first?
+
+[[Talk to the Data Analyst]]
+[[Talk to the Environmental Engineer]]
+[[Talk to the Product Designer]]
+
+
+:: "I would add a search bar to the calendar so that students can easily type out the event that they're looking for." {"position":"2925,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "Awesome idea! You're a natural designer."
+
+[[Next]]
+
+
+:: "I would add more images to make the dishes look and sound more appealing. " {"position":"1825,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "While that's a great idea for marketing and money purposes, it doesn't solve the issue of the user interface being cluttered. Do you want to try again?"
+
+[[Yes|The lunch menu UI – it’s too cluttered]] 
+[[ No|Next]]
+
+
+
+
+:: "I would change the color of the calendar to match the school colors." {"position":"2500,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "This is a great marketing idea! However, it does not solve the issue of students not being able to find events. Do you want to try again?"
+
+[[Yes|The calendar – it’s hard to find events]] 
+[[ No|Next]]
+
+
+:: "I would change the color scheme to match our school colors." {"position":"1975,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "While that's a great idea for user accessibility, it doesn't solve the issue of the user interface being cluttered. Do you want to try again?"
+
+[[Yes|The lunch menu UI – it’s too cluttered]] 
+[[ No|Next]]
+
+
+:: "I would change the size of the words so that students can read the event details better." {"position":"2700,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "While that's a great idea for user accessibility, it doesn't solve the issue of the user interface being cluttered. Do you want to try again?"
+
+[[Yes|The calendar – it’s hard to find events]] 
+[[ No|Next]]
+
+
+:: "I would increase the size of the words in the app, there are too many words in the menu, and they are all close together." {"position":"2125,1325","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "Great pick! Increasing text size in an app can reduce visual clutter by making the content more readable and visually distinct, leading to a cleaner and less crowded user experience. Larger text takes up more space, effectively reducing the density of information on the screen and improving focus."
+
+[[Next]]
+
+
+:: Choose another mentor {"position":"750,1800","size":"200,200"}
+You say goodbye to the mentor and glance around. Who would you like to talk to next?
+
+<img src="https://i.imgur.com/qrEDTmZ.png" width="800">
+
+[[Talk to the Data Analyst]]
+[[Talk to the Environmental Engineer]]
+[[Talk to the Product Designer]]
+[[Get your personalized career suggestion]]
+
+
+:: Electric buses and plant-based cafeteria meals {"position":"1575,1000","size":"200,200"}
+You share your ideas about how using electric buses and plant-based meals emit less Carbon emissions, and the mentor nods and shares how small changes lead to big impact.
+
+<img src="https://i.imgur.com/XwToETl.png" width=800>
+
+Environmental Engineer Mentor: "Yes, absolutely! Small changes like having electric buses for transportation or offering more plant-based meals can have a huge long-term impact. Every step you take—whether it’s using clean energy, cutting down on carbon emissions, or transporting students in an environmentally-friendly vehicle—helps lower the school’s carbon footprint. And when schools set an example, it inspires whole communities to follow. Sometimes the biggest difference starts with just one simple idea. You’re already thinking like an environmental engineer!"
+
+[[Reflect on this experience]]
+
+
+:: Get your personalized career suggestion {"position":"1125,2250","size":"200,200"}
+Do you love uncovering hidden patterns, analyzing information, and solving complex problems? Then you should explore a career in data science! Data science-centric roles allow you to turn raw information into powerful insights that drive decisions across industries.
+
+Are you excited by the idea of making technology easier, more intuitive, and visually beautiful for people to use? Then you should consider a career in UI/UX design! UI/UX designers focus on creating experiences that are both functional and aesthetically pleasing, shaping how users interact with digital products.
+
+Are you passionate about making a real-world impact by designing solutions for a greener, more sustainable future? Then you should pursue a career in sustainability! Careers in sustainability focus on building systems, technologies, and communities that protect and nurture our environment.
+
+Good luck on your journey—and remember, your path is yours to create. You will have plenty of opportunities to explore more career paths and such in college!
+
+[[ Start Over| Enter the cafe]]
+
+
+:: It shows customer interest is dropping {"position":"750,1000","size":"200,200"}
+<img src="https://i.imgur.com/MkTz2pL.png" width=800>
+
+Data Analyst Mentor: "That’s an interesting interpretation! Sometimes, a trend line might seem to show one thing, but without the full story, it can be misleading. If the numbers were meant to represent sales, an upward trend would usually show growth, not decline. But if the data tracked something like complaints or product returns, then a rise could actually mean something negative. That’s the tricky part—data on its own doesn't tell you the full story. You always have to ask what you're really looking at before making conclusions. Another crucial part about data analysis is ensuring that all graphs are titled and labeled properly."
+
+[[Reflect on this experience]]
+
+
+:: It shows sales increased over time {"position":"425,1000","size":"200,200"}
+<img src="https://i.imgur.com/MkTz2pL.png" width=800>
+
+Data Analyst Mentor: "That’s a smart observation! An upward trend often does mean growth, like increasing sales. But here’s the catch—without knowing exactly what the data is measuring or the time period it covers, it’s easy to jump to the wrong conclusion. For example, if this was sales data during a holiday season, growth makes sense. But if it’s tracking something like hospital visits, a rise could mean something very different—and not necessarily good. That’s why in data analysis, context is everything. Before making a decision, you always ask: 'What story is this data really telling me?"
+
+[[Reflect on this experience]]
+
+
+:: Next {"position":"2275,1700","size":"100,100"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "You know, at its core, design isn’t just about making things look nice—it’s about making life easier for people. Empathy is everything. You have to step into someone else’s shoes and imagine what they need, what might confuse them, and what would make their experience smoother. Creativity helps bring those solutions to life in ways that are both functional and fun. Great design happens when you really care about the people you’re designing for."
+
+
+[[Reflect on this experience]]
+
+
+:: Reflect on this experience {"position":"1550,1800","size":"200,200"}
+You take a moment to think.
+
+Which mentor did you connect with most? What tasks felt exciting or fun?
+
+Would you like to talk to someone else?
+
+[[Choose another mentor]]
+[[Get your personalized career suggestion]]
+
+
+:: Solar panels and recycling bins {"position":"1300,1000","size":"200,200"}
+You share your ideas about how solar panels can generate clean energy and recycling bins reduce waste, and the mentor shows how small changes lead to big impact.
+
+<img src="https://i.imgur.com/XwToETl.png" width=800>
+
+Environmental Engineer Mentor: "Those are great ideas! You know, it’s easy to think that small changes don’t matter—but they really do. Adding solar panels to just one school could save thousands of dollars in energy costs over a few years. And adding recyling bins also seems like a small step, but imagine if every school did that! It’s the little decisions, added up, that help change the world. Never underestimate the power of small, smart choices."
+
+[[Reflect on this experience]]
+
+
+:: Start {"position":"1450,150","size":"100,100"}
+(align:"=><=")+(box:"X")[<h2> //''Career Café''// </h2>]
+(align:"=><=")+(box:"X")[By Ayush Tripathi]
+
+
+Welcome to Career Café!
+
+<img src="https://i.imgur.com/5Mhst1C.png" width=800>
+
+You walk into a cozy cafe where each table is hosted by a mentor from a different tech profession. You're here to learn more about the kinds of careers you might enjoy—and maybe even find some inspiration.
+
+Ready to explore?
+
+[[ Enter the cafe]]
+
+
+:: Talk to the Data Analyst {"position":"725,700","size":"200,200"}
+You walk over to the data analyst.
+
+Data Analyst Mentor: "Hi! I work with data to help companies make better decisions. Want to try a quick task?"
+
+Mini-Challenge:
+Here’s a simple dataset. Can you spot the trend?
+
+<img src="https://i.imgur.com/u1DLzNZ.png" width="800">
+
+
+Data Analyst Mentor: "What do you think the data shows? Don't worry, there are no wrong answers!"
+
+[[It shows sales increased over time]]
+[[It shows customer interest is dropping]]
+
+
+:: Talk to the Environmental Engineer {"position":"1400,700","size":"200,200"}
+Environmental Engineer Mentor: "Nice to meet you! I work on sustainable designs to protect our planet."
+
+Mini-Challenge:
+Imagine your school wants to reduce its carbon footprint. What would you suggest?
+
+<img src="https://i.imgur.com/JTcVFC3.png" width="400">
+[[Solar panels and recycling bins]]
+
+<img src="https://i.imgur.com/vIlbx2b.png" width="400">
+[[Electric buses and plant-based cafeteria meals]]
+
+
+:: Talk to the Product Designer {"position":"2250,700","size":"200,200"}
+<img src="https://i.imgur.com/tn6Ldrm.png" width=400>
+
+Product Designer Mentor: "Hey there! I design apps that are valuable and easy to use."
+
+Mini-Challenge:
+Your school’s app is confusing. You’ve been asked to redesign one feature.
+
+Which feature do you redesign?
+
+[[The lunch menu UI – it’s too cluttered]]
+[[The calendar – it’s hard to find events]]
+
+
+:: The calendar – it’s hard to find events {"position":"2625,1000","size":"200,200"}
+What would you change about the the calendar and why?
+
+[["I would change the color of the calendar to match the school colors."]]
+[["I would change the size of the words so that students can read the event details better."]]
+[["I would add a search bar to the calendar so that students can easily type out the event that they're looking for."]]
+
+
+:: The lunch menu UI – it’s too cluttered {"position":"1950,1000","size":"200,200"}
+What would you change about the lunch menu UI and why?
+
+[["I would change the color scheme to match our school colors."]]
+[["I would increase the size of the words in the app, there are too many words in the menu, and they are all close together."]] 
+[["I would add more images to make the dishes look and sound more appealing. "]] 
